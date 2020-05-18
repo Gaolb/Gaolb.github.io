@@ -1,0 +1,20 @@
+---
+title: SQL学习笔记
+categories: 学习
+tags:SQL
+
+---
+
+[TOC]
+
+#管理mysql
+
+```sql
+show databases; # 查看所有库
+create database nsd;  #创建库
+drop database nsd;  #删除库
+use nsd;   #进入nsd库
+show tables;   #库中的表格
+desc 表名； #查询表结构
+```
+
