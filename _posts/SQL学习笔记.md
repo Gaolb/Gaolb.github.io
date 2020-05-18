@@ -1,13 +1,13 @@
 ---
 title: SQL学习笔记
 categories: 学习
-tags:SQL
+tags: SQL
 
 ---
 
 [TOC]
 
-#管理mysql
+# 管理mysql
 
 ```sql
 show databases; # 查看所有库
